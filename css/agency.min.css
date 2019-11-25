@@ -748,3 +748,8 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+.galerie-video{
+  display:inline-flex;
+  min-height: 40vh;
+}
